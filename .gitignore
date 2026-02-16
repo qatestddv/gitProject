@@ -1,3 +1,6 @@
 /text-file-to-ignore_1.txt
 /text-file-to-ignore_2.txt
 .DS_Store
+
+# Auto generated files
+auto-gen-files/*.txt
