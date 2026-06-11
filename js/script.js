@@ -1,2 +1,3 @@
-const a = 100;
+const b = 'Hi there'
 const myFunc = () => {];
+
